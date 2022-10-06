@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BraianHenry
 - 👀 I’m interested in Kotlin/Flutter
-- 🌱 I’m currently learning Kotlin / flutter
+- 🌱 I’m currently learning Kotlin/Flutter
 
 <!---
 BraianHenry/BraianHenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
